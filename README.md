@@ -1,5 +1,7 @@
 # Murlix - World of Warcraft Rotation Automation Tool 🧙‍♂️⚔️
-<img src="images/4uXezG0IQCWEzHA_lJtMMA.jpg" alt="Logo" width="200"/>
+<p align="right">
+  <img src="images/4uXezG0IQCWEzHA_lJtMMA.jpg" alt="Logo" width="200"/>
+</p>
 
 Hello! 👋 Murlix is a rotation automation tool for World of Warcraft based on the [Hekili Priority Helper](https://www.curseforge.com/wow/addons/hekili) addon. The program automatically presses abilities according to Hekili's recommendations. Seeing the high prices for similar tools, I decided to share my version with the community. 💡
 
