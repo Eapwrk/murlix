@@ -16,6 +16,8 @@ Hello! 👋 Murlix is a rotation automation tool for World of Warcraft based on 
 
 ## Setup Instructions 🚀
 
+![Alt text](images/2024-09-03_18-31-18.png)
+
 1. **Install the Hekili addon.** [Hekili on CurseForge](https://www.curseforge.com/wow/addons/hekili)
 2. **Launch Murlix** and pin the program window on top of your screen. 📌
 3. **Point to the ability icon** in Hekili and press the End key to open the dialog. 🔍
